@@ -1,4 +1,11 @@
+body{
+    background: linear-gradient(to bottom, #7f7fd5, #86a8e7, #91eae4);
+    background-repeat: no-repeat;
+}
 .navbar1{
-    background-color: black;
+    background-color: #5723b8;
     width: 100%;
+}
+.container1{
+    height: 1000px;
 }
